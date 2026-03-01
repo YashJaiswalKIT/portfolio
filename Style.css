@@ -5,6 +5,9 @@ body,html {
         background-color: #ff6347;
         font-family: Barlow, sans-serif;
       }
+html {
+  scroll-behavior: smooth;
+}
 
       header {
         position: fixed;
